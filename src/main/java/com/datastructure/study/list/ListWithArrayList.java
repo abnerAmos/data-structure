@@ -52,6 +52,9 @@ public class ListWithArrayList {
         // Buscando o índex de um elemento
         System.out.println(list.indexOf("Lara"));
         System.out.println(list.indexOf("Abner")); // Caso não encontre, ele retorna -1
+        System.out.println();
+        // Retornando um elemento pelo índex
+        System.out.println(list.get(1));
         System.out.println("---------------------------");
 
         // Filtrando a lista
