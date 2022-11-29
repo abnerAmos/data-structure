@@ -1,4 +1,4 @@
-package com.datastructure.study.exercices.entity;
+package com.datastructure.study.exercices.exerciceEmployee.entity;
 
 public class Employee {
 

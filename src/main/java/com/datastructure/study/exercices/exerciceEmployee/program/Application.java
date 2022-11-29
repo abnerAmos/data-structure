@@ -1,6 +1,6 @@
-package com.datastructure.study.exercices.program;
+package com.datastructure.study.exercices.exerciceEmployee.program;
 
-import com.datastructure.study.exercices.entity.Employee;
+import com.datastructure.study.exercices.exerciceEmployee.entity.Employee;
 
 import java.util.*;
 
